@@ -1,4 +1,3 @@
 # Library
 
-didn't make gui
-Programmed everything
+didn't make gui, Programmed everything
